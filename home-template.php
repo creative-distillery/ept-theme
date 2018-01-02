@@ -39,46 +39,47 @@
 			</a>
 		</div>
 	</div>
+
 	<div class="four columns">
 		<div class="wrapper">
 			<a id="spin-3" href="/cryobanks">
-<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="174.8px" height="174.8px" viewBox="0 0 174.8 174.8" style="enable-background:new 0 0 174.8 174.8;" xml:space="preserve"
-	>
-<style type="text/css">
-	.st0{fill:url(#SVGID_1_);}
-	.st1{fill:url(#SVGID_2_);}
-	.st2{fill:#008ED3;}
-	.st3{fill:#A2238D;}
-	.st4{fill:none;stroke:#562D84;stroke-width:4.54;stroke-miterlimit:10;}
-</style>
-<title>ept-cryo</title>
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="3261.2795" y1="-454.5092" x2="3413.5417" y2="-454.5092" gradientTransform="matrix(1 0 0 -1 -3261.28 -355.88)">
-	<stop  offset="0" style="stop-color:#B31E8D"/>
-	<stop  offset="1" style="stop-color:#E0DEEF"/>
-</linearGradient>
-<g class="spin-3">
-<path class="st0" d="M87.1,167.2c-44.3,0-80.2-35.9-80.2-80.2c0-24.9,11.6-48.4,31.3-63.6c-4.3-1.8-9.4-0.8-12.7,2.5
-	c-34.1,34.1-34.1,89.3,0,123.3c34.1,34.1,89.3,34.1,123.3,0c3.6-3.6,4.4-9.1,2.1-13.6C135.8,155.6,112.2,167.2,87.1,167.2z"/>
-<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="3284.6094" y1="-431.6971" x2="3436.0505" y2="-431.6971" gradientTransform="matrix(1 0 0 -1 -3261.28 -355.88)">
-	<stop  offset="0" style="stop-color:#E0DEEF"/>
-	<stop  offset="1" style="stop-color:#0094D9"/>
-</linearGradient>
-<path class="st1" d="M149.2,25.5c-34.1-34.1-89.3-34.1-123.3,0c0,0,0,0,0,0c-0.5,0.5-2.6,2.5-2.6,3c0.1,1.9,2.6,2.6,4.4,4.5
-	c29.8-32.8,80.5-35.3,113.3-5.5c32.8,29.8,35.3,80.5,5.5,113.3c-1.7,1.9-3.5,3.7-5.3,5.4c2.1,2.4,2.9,6,4.9,5.4
-	c1.1-0.8,2.1-1.7,3-2.7C183.3,114.8,183.3,59.6,149.2,25.5C149.2,25.6,149.2,25.5,149.2,25.5z"/>
+        <!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+        <svg version="1.1" id="Layer_4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        	 width="174.8px" height="174.8px" viewBox="0 0 174.8 174.8" style="enable-background:new 0 0 174.8 174.8;" xml:space="preserve"
+        	>
+          <style type="text/css">
+          	.st0{fill:url(#SVGID_1_);}
+          	.st1{fill:url(#SVGID_2_);}
+          	.st2{fill:#008ED3;}
+          	.st3{fill:#A2238D;}
+          	.st4{fill:none;stroke:#562D84;stroke-width:4.54;stroke-miterlimit:10;}
+          </style>
+          <title>ept-cryo</title>
+          <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="3261.2795" y1="-454.5092" x2="3413.5417" y2="-454.5092" gradientTransform="matrix(1 0 0 -1 -3261.28 -355.88)">
+          	<stop  offset="0" style="stop-color:#B31E8D"/>
+          	<stop  offset="1" style="stop-color:#E0DEEF"/>
+          </linearGradient>
+          <g class="spin-3">
+            <path class="st0" d="M87.1,167.2c-44.3,0-80.2-35.9-80.2-80.2c0-24.9,11.6-48.4,31.3-63.6c-4.3-1.8-9.4-0.8-12.7,2.5
+            	c-34.1,34.1-34.1,89.3,0,123.3c34.1,34.1,89.3,34.1,123.3,0c3.6-3.6,4.4-9.1,2.1-13.6C135.8,155.6,112.2,167.2,87.1,167.2z"/>
+            <linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="3284.6094" y1="-431.6971" x2="3436.0505" y2="-431.6971" gradientTransform="matrix(1 0 0 -1 -3261.28 -355.88)">
+            	<stop  offset="0" style="stop-color:#E0DEEF"/>
+            	<stop  offset="1" style="stop-color:#0094D9"/>
+            </linearGradient>
+            <path class="st1" d="M149.2,25.5c-34.1-34.1-89.3-34.1-123.3,0c0,0,0,0,0,0c-0.5,0.5-2.6,2.5-2.6,3c0.1,1.9,2.6,2.6,4.4,4.5
+            	c29.8-32.8,80.5-35.3,113.3-5.5c32.8,29.8,35.3,80.5,5.5,113.3c-1.7,1.9-3.5,3.7-5.3,5.4c2.1,2.4,2.9,6,4.9,5.4
+            	c1.1-0.8,2.1-1.7,3-2.7C183.3,114.8,183.3,59.6,149.2,25.5C149.2,25.6,149.2,25.5,149.2,25.5z"/>
 
-<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -63.1896 145.293)" class="st2" cx="143.8" cy="148.9" rx="3.7" ry="3.7"/>
-<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -14.2132 27.009)" class="st3" cx="25.5" cy="30.7" rx="3.3" ry="3.3"/>
-</g>
-<ellipse transform="matrix(0.9125 -0.4091 0.4091 0.9125 -32.9412 29.381)" class="st4" cx="52.2" cy="91.7" rx="22.4" ry="22.4"/>
-<ellipse transform="matrix(0.9125 -0.4091 0.4091 0.9125 -41.7525 40.1782)" class="st4" cx="73" cy="117.7" rx="22.4" ry="22.4"/>
-<ellipse transform="matrix(0.9125 -0.4091 0.4091 0.9125 -37.5422 53.9185)" class="st4" cx="107.3" cy="114.7" rx="22.4" ry="22.4"/>
-<ellipse transform="matrix(0.9125 -0.4091 0.4091 0.9125 -18.5379 32.356)" class="st4" cx="66.4" cy="59.5" rx="22.4" ry="22.4"/>
-<ellipse transform="matrix(0.9125 -0.4091 0.4091 0.9125 -13.9388 45.5557)" class="st4" cx="99.5" cy="55.4" rx="22.4" ry="22.4"/>
-<ellipse transform="matrix(0.9125 -0.4091 0.4091 0.9125 -23.207 56.5136)" class="st4" cx="120.5" cy="82.5" rx="22.4" ry="22.4"/>
-</svg>
+            <ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -63.1896 145.293)" class="st2" cx="143.8" cy="148.9" rx="3.7" ry="3.7"/>
+            <ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -14.2132 27.009)" class="st3" cx="25.5" cy="30.7" rx="3.3" ry="3.3"/>
+          </g>
+          <ellipse transform="matrix(0.9125 -0.4091 0.4091 0.9125 -32.9412 29.381)" class="st4" cx="52.2" cy="91.7" rx="22.4" ry="22.4"/>
+          <ellipse transform="matrix(0.9125 -0.4091 0.4091 0.9125 -41.7525 40.1782)" class="st4" cx="73" cy="117.7" rx="22.4" ry="22.4"/>
+          <ellipse transform="matrix(0.9125 -0.4091 0.4091 0.9125 -37.5422 53.9185)" class="st4" cx="107.3" cy="114.7" rx="22.4" ry="22.4"/>
+          <ellipse transform="matrix(0.9125 -0.4091 0.4091 0.9125 -18.5379 32.356)" class="st4" cx="66.4" cy="59.5" rx="22.4" ry="22.4"/>
+          <ellipse transform="matrix(0.9125 -0.4091 0.4091 0.9125 -13.9388 45.5557)" class="st4" cx="99.5" cy="55.4" rx="22.4" ry="22.4"/>
+          <ellipse transform="matrix(0.9125 -0.4091 0.4091 0.9125 -23.207 56.5136)" class="st4" cx="120.5" cy="82.5" rx="22.4" ry="22.4"/>
+        </svg>
 
 			<p class="lead">Cryobanks</p>
 			<p class="info">Long term planning for the future of preserved embryos.</p>

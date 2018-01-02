@@ -163,6 +163,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#039fe2', end
 
 .bio-feature img{
 	display:block;
+	width: 95%;
+	max-width: 215px;
+	margin: 0 auto;
 }
 
 .bio-feature .wrapper a{
@@ -730,7 +733,7 @@ z-index:9999;
 }
 
 .bio-feature .wrapper{
-	font-size:2em;
+	/* font-size:2em; */
 
 }
 
